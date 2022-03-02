@@ -1,5 +1,5 @@
 # ML-Pnemonia_Dection-CNN
-Pneumonia Identification
+Pneumonia Identification using CNN
 
 Chest X-ray Images Project Introduction 
 for pneumonia detection with deep learning method
