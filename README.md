@@ -5,7 +5,7 @@ Chest X-ray Images Project Introduction for pneumonia detection with deep learni
 
 Content This dataset contains 5,856 validated chest X-Ray images. The images are split into a training set and a testing set of independent patients. Images are labeled as (disease:NORMAL/BACTERIA/VIRUS)-(randomized patient ID)-(image number of a patient). For details of the data collection and description, see the referenced paper below.
 
-According to the paper, the images (anterior-posterior) were selected from retrospective cohorts of pediatric patients of one to five years old from Guangzhou Women and Children’s Medical Center, Guangzhou.
+According to the paper, the images (anterior-posterior) were selected from the retrospective cohorts of pediatric patients of one to five years old from Guangzhou Women and Children’s Medical Center, Guangzhou.
 
 Why do I select this project
 In this project, CNN algorithm is used to identify the symptoms of pneumonia from chest X-ray images of the patients. This technique would substantially help improve our current health care system during both emergency and regular periods.
