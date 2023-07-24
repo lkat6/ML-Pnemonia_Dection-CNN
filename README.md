@@ -1,5 +1,5 @@
 ML-Pnemonia_dection-CNN
-pneumonia Identification with CnN
+pneumonia Identification with CNN
 
 Chest x-ray Images Project Introduction for pneumonia detection with deep learning method Context Pneumonia is an infection that inflames the air sacs in one or both lungs. It kills more children younger than 5 years old each year than any other infectious disease, such as HIV infection, malaria, or tuberculosis. Diagnosis is often based on symptoms and physical examination. Chest X-rays may help confirm the diagnosis.
 
